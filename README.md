@@ -61,22 +61,23 @@ MealMatrix is a **MERN stack** web application that allows users to explore rest
 
 ### 1️⃣ Clone the Repository  
 ```sh
-git clone https://github.com/yourusername/meal-matrix.git  
-cd meal-matrix  
+git clone https://github.com/Poonam-2704/MealMatrix-Food-App.git  
+cd meal-matrix
+```
+
 2️⃣ Install Dependencies & Start Backend
-sh
-Copy
-Edit
+```sh
 cd backend  
 npm install  
-npm start  
+npm start
+```
 3️⃣ Install Dependencies & Start Frontend
-sh
-Copy
-Edit
+```sh
 cd frontend  
 npm install  
-npm start  
+npm start
+```
+
 🤝 Contributors
 Developed by Poonam Suthar.
 
