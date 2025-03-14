@@ -78,7 +78,7 @@ npm install
 npm start
 ```
 
-🤝 Contributors
+##🤝 Contributors
 Developed by Poonam Suthar.
 
 For contributions or issues, open a pull request or report an issue.
