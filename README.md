@@ -1,4 +1,4 @@
-# 🍽️ MealMatrix – Full-Stack Food Ordering & Vendor Management  
+# 🍽️ Meal Matrix – Full-Stack Food Ordering & Vendor Management  
 
 MealMatrix is a **MERN stack** web application that allows users to explore restaurant menus and vendors to manage their businesses seamlessly.  
 
