@@ -11,8 +11,8 @@ const Navbar = ({ isLoggedIn }) => {
 
   const styles = {
     navbarContainer: {
-      width: "50%", // Occupy half of the page width
-      margin: "0 auto", // Center it horizontally
+      width: "50%", 
+      margin: "0 auto",
       textAlign: "center",
       padding: "15px",
     },
